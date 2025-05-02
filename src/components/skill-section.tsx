@@ -6,7 +6,7 @@ export default function Skill() {
     >
       <div className="bg-gray-700 shadow-md rounded-4xl w-[80%] h-fit mx-12 pt-8 pb-8 px-12">
         <h2 className="text-white font-bold text-2xl text-center mb-8">
-          Skills I've Honed
+          Skills I`&apos`ve Honed
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 overflow-y-auto h-96 lg:h-full">
           {/* Frontend */}
